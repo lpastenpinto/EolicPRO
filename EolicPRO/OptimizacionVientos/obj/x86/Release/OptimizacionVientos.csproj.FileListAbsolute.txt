@@ -1,0 +1,13 @@
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\bin\Release\OptimizacionVientos.exe.config
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\bin\Release\Vientos.mdf
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\bin\Release\Vientos_log.ldf
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\bin\Release\OptimizacionVientos.exe
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\bin\Release\OptimizacionVientos.pdb
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\obj\x86\Release\OptimizacionVientos.FormConfigurarDisponibilidad.resources
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\obj\x86\Release\OptimizacionVientos.FormHistoricos.resources
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\obj\x86\Release\OptimizacionVientos.FormPrincipal.resources
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\obj\x86\Release\OptimizacionVientos.FormTomaDatosViento.resources
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\obj\x86\Release\OptimizacionVientos.Properties.Resources.resources
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\obj\x86\Release\OptimizacionVientos.csproj.GenerateResource.Cache
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\obj\x86\Release\OptimizacionVientos.exe
+C:\Users\Hector\documents\visual studio 2010\Projects\OptimizacionVientos\OptimizacionVientos\obj\x86\Release\OptimizacionVientos.pdb
